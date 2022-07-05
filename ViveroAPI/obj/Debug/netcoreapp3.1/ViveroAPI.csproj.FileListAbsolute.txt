@@ -1,0 +1,780 @@
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.exe
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.dev.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.Manifest.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.xml
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ViveroAPI.styles.css
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CopyComplete
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\OblP31eraVivero25\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.genruntimeconfig.cache
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.exe
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.deps.json
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.json
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.dev.json
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfoInputs.cache
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfo.cs
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.Manifest.cache
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.xml
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ViveroAPI.styles.css
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.RazorTargetAssemblyInfo.cache
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CopyComplete
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\Users\esteb\Downloads\P3OblViveroV2\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.genruntimeconfig.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.exe
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.deps.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.dev.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.AssemblyReference.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfoInputs.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfo.cs
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CoreCompileInputs.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.Manifest.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.xml
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ViveroAPI.styles.css
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.RazorTargetAssemblyInfo.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CopyComplete
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\P3OblViveroV1 15-6-2022 21-05\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.genruntimeconfig.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.exe
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.deps.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.dev.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.AssemblyReference.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfoInputs.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfo.cs
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CoreCompileInputs.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.Manifest.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.xml
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ViveroAPI.styles.css
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.RazorTargetAssemblyInfo.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CopyComplete
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.genruntimeconfig.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.exe
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.deps.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.dev.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.AssemblyReference.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfoInputs.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfo.cs
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CoreCompileInputs.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.Manifest.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.xml
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ViveroAPI.styles.css
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.RazorTargetAssemblyInfo.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CopyComplete
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.genruntimeconfig.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\claseDTOS.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.AssemblyReference.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfoInputs.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfo.cs
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CoreCompileInputs.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.exe
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.deps.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.dev.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\claseDTOS.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.Manifest.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.xml
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ViveroAPI.styles.css
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.RazorTargetAssemblyInfo.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CopyComplete
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.genruntimeconfig.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.exe
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.dev.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\claseDTOS.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.Manifest.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.xml
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ViveroAPI.styles.css
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CopyComplete
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.genruntimeconfig.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.exe
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.runtimeconfig.dev.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\claseDTOS.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.Manifest.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\staticwebassets\ViveroAPI.StaticWebAssets.xml
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ViveroAPI.styles.css
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.csproj.CopyComplete
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\ViveroAPI\obj\Debug\netcoreapp3.1\ViveroAPI.genruntimeconfig.cache

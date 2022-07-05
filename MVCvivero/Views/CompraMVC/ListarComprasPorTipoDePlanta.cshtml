@@ -1,0 +1,76 @@
+﻿@model IEnumerable<claseDTOS.MostrarCompraDTO>
+
+@{
+    ViewData["Title"] = "ListarComprasPorTipoDePlanta";
+}
+<body class="bg-dark text-light mb-3 pb-5">
+    <h1>Listar Compras Por Tipo De Planta</h1>
+
+
+    <div class="mt-2">
+        <a asp-action="Index">Volver hacia atras</a>
+    </div>
+
+    <span class="alert-danger p-1">@ViewBag.Error</span>
+
+    @if (ViewBag.Error == "")
+    {
+
+
+        <table class="table text-light">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Id)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FechaCompra)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.PrecioTotal)
+                    </th>
+                    <th>
+                        Nombre cientifico / Unidades
+                    </th>
+
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var CompraActual in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => CompraActual.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => CompraActual.FechaCompra)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => CompraActual.PrecioTotal)
+                        </td>
+                        <td>
+                            @foreach (var listaItems in CompraActual.ItemsPlantasCompradas)
+                            {
+
+
+                                <p>
+                                    @Html.DisplayFor(modelItem => listaItems.NombreCientifico)
+                                    =
+                                    @Html.DisplayFor(modelItem => listaItems.Unidades)
+
+                                </p>
+
+
+                            }
+                        </td>
+
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    }
+</body>

@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220615140356_PrimeraMigracion.cs" />
+    <Compile Remove="Migrations\20220615140356_PrimeraMigracion.Designer.cs" />
+    <Compile Remove="Migrations\20220615173959_Inicial.cs" />
+    <Compile Remove="Migrations\20220615173959_Inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220615175842_Inicial.cs" />
+    <Compile Remove="Migrations\20220615175842_Inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220615180447_Inicial.cs" />
+    <Compile Remove="Migrations\20220615180447_Inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220615235129_Inicial.cs" />
+    <Compile Remove="Migrations\20220615235129_Inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220616192817_Inicial.cs" />
+    <Compile Remove="Migrations\20220616192817_Inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220616233431_AgregandoParametros.cs" />
+    <Compile Remove="Migrations\20220616233431_AgregandoParametros.Designer.cs" />
+    <Compile Remove="Migrations\20220618030527_inicial.cs" />
+    <Compile Remove="Migrations\20220618030527_inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220618030814_inicial.cs" />
+    <Compile Remove="Migrations\20220618030814_inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220618033320_inicial.cs" />
+    <Compile Remove="Migrations\20220618033320_inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220618034132_inicial.cs" />
+    <Compile Remove="Migrations\20220618034132_inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220618034408_inicial.cs" />
+    <Compile Remove="Migrations\20220618034408_inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220619000811_inicial.cs" />
+    <Compile Remove="Migrations\20220619000811_inicial.Designer.cs" />
+    <Compile Remove="Migrations\20220619000851_Inicial.cs" />
+    <Compile Remove="Migrations\20220619000851_Inicial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="4.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.25">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.25" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.25">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.25" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.25" />
+    <PackageReference Include="System.Linq" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\claseDTOS\claseDTOS.csproj" />
+    <ProjectReference Include="..\Dominio\Dominio.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
+</Project>

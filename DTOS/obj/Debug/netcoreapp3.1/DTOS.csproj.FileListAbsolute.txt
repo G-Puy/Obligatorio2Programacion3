@@ -1,0 +1,13 @@
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\bin\Debug\netcoreapp3.1\DTOS.deps.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\bin\Debug\netcoreapp3.1\DTOS.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\bin\Debug\netcoreapp3.1\DTOS.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\obj\Debug\netcoreapp3.1\DTOS.csproj.AssemblyReference.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\obj\Debug\netcoreapp3.1\DTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\obj\Debug\netcoreapp3.1\DTOS.AssemblyInfoInputs.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\obj\Debug\netcoreapp3.1\DTOS.AssemblyInfo.cs
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\obj\Debug\netcoreapp3.1\DTOS.csproj.CoreCompileInputs.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\obj\Debug\netcoreapp3.1\DTOS.csproj.CopyComplete
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\obj\Debug\netcoreapp3.1\DTOS.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\DTOS\obj\Debug\netcoreapp3.1\DTOS.pdb

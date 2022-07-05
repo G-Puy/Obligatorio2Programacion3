@@ -1,0 +1,39 @@
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.deps.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.AssemblyInfoInputs.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.AssemblyInfo.cs
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.csproj.CoreCompileInputs.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV2 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.csproj.AssemblyReference.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.deps.json
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.csproj.AssemblyReference.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.AssemblyInfoInputs.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.AssemblyInfo.cs
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.csproj.CoreCompileInputs.cache
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.dll
+C:\SegundoOBL\Versiones\comprimir\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV6 16-06-2022 20-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\claseDTOS\bin\Debug\netcoreapp3.1\claseDTOS.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3 2\P3OblViveroV8 20-06-2022 11-57\ViveroProgram\claseDTOS\obj\Debug\netcoreapp3.1\claseDTOS.pdb

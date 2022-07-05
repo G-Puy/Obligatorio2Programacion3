@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Dominio.OtrasInterfaces;
+
+namespace Dominio.EntidadesNegocio
+{
+    public class Parametros
+    {
+        public int Id { get; set; }
+        public string TipoParametro { get; set; }
+        public string DescParametro { get; set; }
+        public string ValorParametro { get; set; }
+
+        public int StringToInt(string texto)
+        {
+            int valorInt = Convert.ToInt32(texto);
+            return valorInt;
+        }
+        public decimal StringToDecimal(string texto)
+        {
+            decimal valorDecimal = Convert.ToDecimal(texto);
+            return valorDecimal;
+        }
+
+        
+
+        public override string ToString()
+        {
+            return Id + " - " + TipoParametro + " - " + DescParametro + " - " + ValorParametro;
+        }
+    }
+}

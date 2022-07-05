@@ -1,0 +1,21 @@
+﻿
+@using Dominio.EntidadesNegocio;
+<body class="bg-dark text-light mb-3 pb-5">
+    <form asp-action="ListarComprasPorTipoDePlanta" id="idBuscando" method="post">
+        <div class="form-group">
+            <label class="control-label">Tipo de Planta:</label><br />
+            <select name="tipoId" class="form-control" id="idtipoId">
+                <option value="-1" disabled selected>Seleccione una opcion</option>
+                @foreach (TipoPlanta tp in @ViewBag.ListPlanta)
+                {
+                    <option value=@tp.Id>@tp.NomTipoPlanta</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Buscar" class="btn btn-primary" />
+        </div>
+        <p id="sMensaje" class="text-danger"></p>
+        <span class="text-danger">@ViewBag.Error</span>
+    </form>
+</body>
